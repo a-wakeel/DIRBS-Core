@@ -1,5 +1,5 @@
 
-- Project license has been updated to remove the requirement for acknowledgement
+Clone of the origional DIRBS Core @ github.com/dirbs/DIRBS-core
 ====================
 
 Copyright (c) 2018-2021 Qualcomm Technologies, Inc.
